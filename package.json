@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Node.js"
+    "Node.js",
+    "Nodemon",
+    "es6"
   ],
   "author": "",
   "license": "ISC",
